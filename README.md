@@ -20,7 +20,7 @@ No layer reports a number it did not compute or receive from the layer before it
 │   ├── make_seed.py            (extra) regenerates seed_data.sql from the CSVs
 │   └── run_sql.py              (extra) builds returns.db and runs everything, no SQLite install needed
 ├── data/
-│   ├── customers.csv           committed exactly as given, never edited
+│   ├── customers.csv           
 │   ├── products.csv
 │   └── orders.csv
 ├── analysis/
